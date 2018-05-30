@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Description>Common ASP.NET Core Web tools</Description>
+    <Copyright>codehaks</Copyright>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/codehaks/Codehaks.Common</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/codehaks/Codehaks.Common</RepositoryUrl>
+    <PackageIconUrl>codehaks.github.io/img/favicon-96x96.png</PackageIconUrl>
+    <PackageTags>ASP.NET Core, ValidateModel, ActionFilter</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
